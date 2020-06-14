@@ -1,4 +1,7 @@
 # Covid19-Data-Analysis-Notebook
-### Forecasted using Srimax and LinearRegression 
-### Using RNN
-<img scr="https://github.com/dhanushnayak/Covid19-Data-Analysis-Notebook/blob/master/download.png">
+
+<div>
+  <center>
+    <img src="https://raw.githubusercontent.com/dhanushnayak/Covid19-Data-Analysis-Notebook/master/download.png">
+  </center>
+ </div> 
